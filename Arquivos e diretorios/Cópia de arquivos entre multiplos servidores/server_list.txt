@@ -1,0 +1,2 @@
+10.0.0.50|Diretorio1
+10.0.0.51|Diretorio2
